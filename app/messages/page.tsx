@@ -430,24 +430,24 @@ export default function MessagesPage() {
               <div className="max-w-2xl mx-auto">
                 <div className="text-center mb-8">
                   <Avatar className="h-24 w-24 mx-auto mb-4">
-                    <AvatarImage src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" />
-                    <AvatarFallback>JD</AvatarFallback>
+                    <AvatarImage src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1a83bd00-b0f1-4a43-945d-e314e8f400ad/d4tnvlm-97d2c291-68e9-45c6-98cc-9dd0b8e0d633.jpg/v1/fill/w_900,h_675,q_75,strp/batman_profile_by_knight_viper_d4tnvlm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Njc1IiwicGF0aCI6IlwvZlwvMWE4M2JkMDAtYjBmMS00YTQzLTk0NWQtZTMxNGU4ZjQwMGFkXC9kNHRudmxtLTk3ZDJjMjkxLTY4ZTktNDVjNi05OGNjLTlkZDBiOGUwZDYzMy5qcGciLCJ3aWR0aCI6Ijw9OTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Ddyw5y9-8nwAXpQeEiQrQT6Ry62ICpnDk1UYMS2a8Ac" />
+                    <AvatarFallback>VG</AvatarFallback>
                   </Avatar>
-                  <h2 className="text-2xl font-bold">John Doe</h2>
-                  <p className="text-gray-600">Computer Science • Stanford University</p>
+                  <h2 className="text-2xl font-bold">Vivek Subramanian G</h2>
+                  <p className="text-gray-600">Computer Science • Sathyabama University</p>
                 </div>
 
                 <Card className="mb-6">
                   <div className="p-6">
                     <h3 className="text-lg font-semibold mb-4">About Me</h3>
                     <p className="text-gray-700 mb-4">
-                      I'm a Computer Science major with a focus on AI and machine learning. I'm looking for study partners for algorithm practice and upcoming exams.
+                      I'm a Computer Science major with a focus on Cryptography and machine learning. I'm looking for study partners for algorithm practice and upcoming exams.
                     </p>
                     
                     <h4 className="font-medium text-gray-900 mt-6 mb-2">Subjects</h4>
                     <div className="flex flex-wrap gap-2 mb-4">
                       <span className="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full text-sm">
-                        Computer Science
+                        Cryptography
                       </span>
                       <span className="bg-indigo-100 text-indigo-800 px-3 py-1 rounded-full text-sm">
                         Artificial Intelligence
